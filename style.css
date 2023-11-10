@@ -1,0 +1,21 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+header > div {
+    background-color: blue;
+    border-radius: 5px;
+    width: 95%;
+    margin: auto;
+}
+
+header {
+
+}
